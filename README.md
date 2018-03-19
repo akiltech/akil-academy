@@ -15,7 +15,6 @@ Si vous avez des recommendations de cours en ligne, ou de tutoriels, n'hesitez p
 - [The Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 - [Git](https://www.codecademy.com/learn/learn-git)
 - [Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
-- [SQL](https://www.codecademy.com/learn/learn-sql)
 - [JSON](https://www.alsacreations.com/article/lire/1675-json-stockage-leger-pratique-donnees-multitypes.html)
 
 # Specialization Front End
@@ -25,10 +24,15 @@ Si vous avez des recommendations de cours en ligne, ou de tutoriels, n'hesitez p
 - [React I](https://www.codecademy.com/learn/react-101)
 - [React II](https://www.codecademy.com/learn/react-102)
 - [Projet HTML/CSS](https://www.codecademy.com/learn/make-a-website)
+- [JQuery](https://www.codecademy.com/learn/learn-jquery)
 
 # Specialization Back End
 - [API](https://openclassrooms.com/courses/utilisez-des-api-rest-dans-vos-projets-web/qu-est-ce-qu-une-api)
 - [Express](https://www.codecademy.com/learn/learn-express)
+
+# Specialization Data Base
+- [MongoDB](https://www.freecodecamp.org/challenges/store-data-in-mongodb)
+- [SQL](https://www.codecademy.com/learn/learn-sql)
 
 # Devops CI/CD
 - [Comprendre le Continuous Integration](http://blog.myagilepartner.fr/index.php/2017/01/05/quest-ce-que-le-continuous-delivery-et-continuous-deployment/)
