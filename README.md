@@ -23,6 +23,7 @@ Si vous avez des recommendations de cours en ligne, ou de tutoriels, n'hesitez p
 - [Angular](https://angular.io/tutorial)
 - [React I](https://www.codecademy.com/learn/react-101)
 - [React II](https://www.codecademy.com/learn/react-102)
+- [Creer un application avec React](https://udilia.com/courses/learn-react-by-building-a-web-app)
 - [Projet HTML/CSS](https://www.codecademy.com/learn/make-a-website)
 - [JQuery](https://www.codecademy.com/learn/learn-jquery)
 - [Bootstrap 4](https://scrimba.com/g/gbootstrap4)
