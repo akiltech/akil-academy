@@ -35,12 +35,17 @@ Si vous avez des recommendations de cours en ligne, ou de tutoriels, n'hesitez p
 # Specialization Data Base
 - [MongoDB](https://www.freecodecamp.org/challenges/store-data-in-mongodb)
 - [SQL](https://www.codecademy.com/learn/learn-sql)
+- [MySQL](https://labex.io/courses/7) Lesson MySQL sur LabEx
 
 # Devops CI/CD
 - [Comprendre le Continuous Integration](http://blog.myagilepartner.fr/index.php/2017/01/05/quest-ce-que-le-continuous-delivery-et-continuous-deployment/)
 - [Une integration continue optimale](https://promyze.com/organiser-code-integration-continue/)
 - [Deploiement](https://www.codecademy.com/learn/deploy-a-website)
 - [Jenkins](https://jenkins-le-guide-complet.github.io/)
+
+# Architecture et Best Practices
+- [12 Factor App](https://12factor.net/) Regles de bases pour creer des applications en SAAS (Software As A Service)
+- [Joel's Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) 12 Regles que toute equipe de developpement devrait suivre pour une qualite de code meilleure.
 
 # Capstone Project
 
@@ -49,6 +54,8 @@ Utilisez les connaissances que vous avez accumule pour concevoir un project d'ap
  - Projet UI: Angular/React
  - Project API: ExpressJS
  - Deploiement des apps UI/API sur des serveurs SAAS de votre choix: Heroku/Google Cloud/AWS/Digital Ocean
+ 
+ 
  
 # Contact
 Envoyez nous vos suggestions, remarques, plaintes et autres a [academy@akiltechnologies.com](mailto:academy@akiltechnologies.com) et si vous avez besoin d'aide, ca se passe sur notre chaine Slack@Code D'Ivoire: envoyez nous un email avec comme sujet *Slack!* et nous utiliserons cette addresse email pour vous ajouter a notre chaine.
